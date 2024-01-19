@@ -8,7 +8,6 @@ import {
   Linking,
 } from "react-native";
 import React from "react";
-import BtnActive from "../assets/btnActive.jpg";
 import MatIcon from "@expo/vector-icons/MaterialCommunityIcons";
 
 export default function Card({
